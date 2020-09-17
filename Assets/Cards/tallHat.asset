@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bda22a9694779a43a19d324389b893d, type: 3}
+  m_Name: tallHat
+  m_EditorClassIdentifier: 
+  cardID: 2
+  cardName: Cactus Cowboy
+  sprite: 2
+  dialogue: We the Cactus Cowboys would like more money.
+  leftQuote: No way! Y'all are crazy.
+  rightQuote: Alright here's some shillings.
+  sheriffLeft: 10
+  tHatLeft: -10
+  wHatLeft: 10
+  moneyLeft: 5
+  sheriffRight: -10
+  tHatRight: 10
+  wHatRight: -10
+  moneyRight: -10

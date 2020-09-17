@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bda22a9694779a43a19d324389b893d, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Cow
+  sprite: 4
+  dialogue: MOOO
+  leftQuote: Can you talk?
+  rightQuote: MooMOOOMoO
+  sheriffLeft: 5
+  tHatLeft: -5
+  wHatLeft: 5
+  moneyLeft: 0
+  sheriffRight: -5
+  tHatRight: 5
+  wHatRight: -5
+  moneyRight: 0

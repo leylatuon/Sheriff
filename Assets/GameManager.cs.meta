@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: acb7abbeacdcf09428b4d86611210090
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardGameObject: {instanceID: 0}
+  - cardSpriteRenderer: {instanceID: 0}
+  - mainCardController: {instanceID: 0}
+  - resourceManager: {instanceID: 0}
+  - currentCard: {instanceID: 0}
+  - testCard: {fileID: 11400000, guid: 8f37ec27c3d0e95449e21463d5d9e6e7, type: 2}
+  - display: {instanceID: 0}
+  - characterDialogue: {instanceID: 0}
+  - actionQuote: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

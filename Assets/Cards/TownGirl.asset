@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bda22a9694779a43a19d324389b893d, type: 3}
+  m_Name: TownGirl
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Town Girl
+  sprite: 6
+  dialogue: Did'ya hear about the fight between the Flower and Catus Cowboys?
+  leftQuote: The Flowers won right?
+  rightQuote: The Cactii won right?
+  sheriffLeft: 0
+  tHatLeft: -10
+  wHatLeft: 10
+  moneyLeft: 0
+  sheriffRight: 0
+  tHatRight: 10
+  wHatRight: -10
+  moneyRight: 0
