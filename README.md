@@ -3,6 +3,8 @@ A Reigns inspired game with a wild west theme made for Yeehaw Hacks.
 
 Check out our Devpost [HERE!](https://devpost.com/software/sheriff-u7gt8q)
 
+Check out our Demo Video [HERE!](https://www.youtube.com/watch?v=1Ei_9kee0sM&feature=emb_title)
+
 Play our game [HERE!](https://simmer.io/@yanyan/sheriff-reigns) (Simmer.io doesn't work very well with Safari, Google Chrome is reccomended!)
 
 Help The Sheriff            |  There's Funny Jokes too!            |  End of Game
