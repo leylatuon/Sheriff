@@ -7,4 +7,4 @@ Play our game [HERE!](https://simmer.io/@yanyan/sheriff-reigns) (Simmer.io doesn
 
 Instructions            |  Credits            |  Stuff
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original.jpg" width="300">  |  <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original2.jpg" width="600">  |  <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original3.png" width="600">
+<img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original.jpg" width="600">  |  <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original2.jpg" width="650">  |  <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original3.png" width="600">
