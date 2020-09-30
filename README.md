@@ -7,6 +7,8 @@ Check out our Demo Video [HERE!](https://www.youtube.com/watch?v=1Ei_9kee0sM&fea
 
 Play our game [HERE!](https://simmer.io/@yanyan/sheriff-reigns) (Simmer.io doesn't work very well with Safari, Google Chrome is reccomended!)
 
+Credits to following [TUTORIAL](https://www.youtube.com/watch?v=gs3kNq89Ym4)
+
 Help The Sheriff            |  There's Funny Jokes too!            |  End of Game
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original.jpg" width="600">  |  <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original2.jpg" width="650">  |  <img src="https://github.com/leylatuon/Sheriff/blob/master/Demo_Photos/original3.png" width="600">
