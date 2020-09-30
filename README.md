@@ -7,7 +7,7 @@ Check out our Demo Video [HERE!](https://www.youtube.com/watch?v=1Ei_9kee0sM&fea
 
 Play our game [HERE!](https://simmer.io/@yanyan/sheriff-reigns) (Simmer.io doesn't work very well with Safari, Google Chrome is reccomended!)
 
-Credits to following [TUTORIAL](https://www.youtube.com/watch?v=gs3kNq89Ym4)
+Credits to following video [TUTORIAL](https://www.youtube.com/watch?v=gs3kNq89Ym4) by Clipper on Youtube
 
 Help The Sheriff            |  There's Funny Jokes too!            |  End of Game
 :-------------------------:|:-------------------------:|:-------------------------:
